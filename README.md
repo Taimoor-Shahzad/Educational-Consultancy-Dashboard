@@ -1,7 +1,3 @@
-Here’s a concise and professional README for your project:
-
----
-
 # Educational Consultancy Dashboard
 
 A web-based dashboard system for an educational consultancy. It includes separate dashboards for students and admins, providing functionality for managing study materials, announcements, and user accounts.
@@ -28,10 +24,6 @@ A web-based dashboard system for an educational consultancy. It includes separat
 ## How to Use
 
 ### **1. Clone the Repository**
-```bash
-git clone https://github.com/your-username/educational-consultancy-dashboard.git
-cd educational-consultancy-dashboard
-```
 
 ### **2. Install Dependencies**
 
